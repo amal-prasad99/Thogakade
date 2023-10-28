@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="dashboardPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DashBoardController">
+   <children>
+      <Label alignment="CENTER" layoutY="-2.0" prefHeight="49.0" prefWidth="600.0" text="Thogakade">
+         <font>
+            <Font name="System Bold" size="34.0" />
+         </font>
+      </Label>
+      <Separator layoutX="29.0" layoutY="54.0" prefHeight="6.0" prefWidth="533.0" />
+      <JFXButton fx:id="btnCustomer" layoutX="29.0" layoutY="67.0" onAction="#btnCustomerOnAction" prefHeight="35.0" prefWidth="124.0" style="-fx-background-color: green;" text="Customer" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnItem" layoutX="29.0" layoutY="118.0" onAction="#btnItemOnAction" prefHeight="35.0" prefWidth="124.0" style="-fx-background-color: green;" text="Item" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnOrder" layoutX="29.0" layoutY="171.0" onAction="#btnOrderOnAction" prefHeight="35.0" prefWidth="124.0" style="-fx-background-color: green;" text="Orders" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnPlaceOrder" layoutX="29.0" layoutY="311.0" onAction="#btnAPlaceOrderction" prefHeight="50.0" prefWidth="143.0" style="-fx-background-color: blue;" text="Place Order" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <Label fx:id="lbblDate" alignment="CENTER" layoutX="444.0" layoutY="67.0" prefHeight="40.0" prefWidth="133.0" text="YYYY:MM:DD">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblTime" alignment="CENTER" layoutX="444.0" layoutY="118.0" prefHeight="40.0" prefWidth="133.0" text="00:00">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

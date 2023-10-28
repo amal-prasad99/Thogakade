@@ -1,0 +1,54 @@
+
+h	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ıâ”±1
+h	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ıâ”±1
+h	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ıâ”±1
+h	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ıâ”±1
+h	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+h	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+h	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+h	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+h	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+h	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Šıâ”±1
+Q
+java:S3740>"/Provide the parametrized type for this generic.(íı’­úÿÿÿÿ8Šıâ”±1
+K
+java:S3740A"/Provide the parametrized type for this generic.(³Øm8‹ıâ”±1
+Q
+java:S3740D"/Provide the parametrized type for this generic.(Èâ–úÿÿÿÿ8‹ıâ”±1
+Q
+java:S3740G"/Provide the parametrized type for this generic.(±Ğâ½ùÿÿÿÿ8‹ıâ”±1
+L
+java:S3740J"/Provide the parametrized type for this generic.(ø ¯8‹ıâ”±1
+K
+java:S5411ô"(Use a primitive boolean expression here.(éÕ™Èùÿÿÿÿ8ıâ”±1
+K
+java:S5411œ"(Use a primitive boolean expression here.(ŒÚˆèÿÿÿÿÿ8ıâ”±1
+F
+java:S5411Ê"(Use a primitive boolean expression here.(‰í©‰8ıâ”±1
+w
+java:S3655í"TCall "buttonType.isPresent()" or "!buttonType.isEmpty()" before accessing the value.(²Ôûøùÿÿÿÿ8Ëıâ”±1
+o	java:S116)"SRename this field "ItemPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀêúÜ8Íıâ”±1
+¤
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï¬Æëûÿÿÿÿ8Íıâ”±1
+¤
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ»Æıÿÿÿÿ8Íıâ”±1
+c
+java:S2147­"ECombine this catch with the one at line 171, which has the same body.(ıàÑÎ8Ûıâ”±1
+J
+java:S1602–",Remove useless curly braces around statement(ë¹¬8áıâ”±1
+c
+java:S2147É"ECombine this catch with the one at line 199, which has the same body.(ıàÑÎ8èıâ”±1
+S
+java:S6397À"5Replace this character class by the character itself.(ŞÜÙÂ8éıâ”±1
+c
+java:S2147ÿ"ECombine this catch with the one at line 253, which has the same body.(ıàÑÎ8õıâ”±1
+c
+java:S2147¦"ECombine this catch with the one at line 292, which has the same body.(ıàÑÎ8üıâ”±1
+c
+java:S2147Õ"ECombine this catch with the one at line 339, which has the same body.(ıàÑÎ8şâ”±1
+I
+java:S1128",Remove this unused import 'db.DBConnection'.(Šùà†8‹şâ”±1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8‹şâ”±1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8‹şâ”±1

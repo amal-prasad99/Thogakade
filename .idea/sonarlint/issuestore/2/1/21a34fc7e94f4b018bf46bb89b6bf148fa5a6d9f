@@ -1,0 +1,27 @@
+
+h	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ãþâ”±1
+h	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8åþâ”±1
+h	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8åþâ”±1
+h	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8åþâ”±1
+K
+java:S5411Ø"(Use a primitive boolean expression here.(éÕ™Èùÿÿÿÿ8çþâ”±1
+z	java:S116+"_Rename this field "OrderDetailsFormPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´ó"8šÿâ”±1
+ž
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓÕ¤V8šÿâ”±1
+¤
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ý»ÆŽýÿÿÿÿ8šÿâ”±1
+c
+java:S2147©"ECombine this catch with the one at line 167, which has the same body.(ýàÑÎ8¤ÿâ”±1
+]	java:S125v"<This block of commented-out lines of code should be removed.(Çäó²þÿÿÿÿ8¦ÿâ”±1
+Y	java:S125Ž"<This block of commented-out lines of code should be removed.(ä¯îö8¨ÿâ”±1
+c
+java:S2147"ECombine this catch with the one at line 255, which has the same body.(ýàÑÎ8­ÿâ”±1
+^	java:S125´"<This block of commented-out lines of code should be removed.(Çäó²þÿÿÿÿ8­ÿâ”±1
+Y	java:S125Í"<This block of commented-out lines of code should be removed.(ÉÌÃÞ8±ÿâ”±1
+^	java:S125ç"<This block of commented-out lines of code should be removed.(«å‡Ÿþÿÿÿÿ8³ÿâ”±1
+I
+java:S1128",Remove this unused import 'db.DBConnection'.(Šùà†8½ÿâ”±1
+M
+java:S1128 "0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8½ÿâ”±1
+Y
+java:S1128!"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8½ÿâ”±1
